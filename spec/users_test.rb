@@ -30,10 +30,5 @@ RSpec.describe 'Validar a api de usuários' do
       expect(item["website"]).to be_a_kind_of(String)
       expect(item["company"]).to be_a_kind_of(Object)
     end
-  
   end
-
-
-
-
 end

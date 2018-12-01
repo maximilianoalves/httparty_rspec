@@ -16,5 +16,4 @@ RSpec.configure do |config|
       base_uri 'https://jsonplaceholder.typicode.com/'
     end
   end
-
 end
