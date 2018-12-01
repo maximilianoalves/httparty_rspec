@@ -1,0 +1,4 @@
+`bundle install`
+
+`rake spec`
+
