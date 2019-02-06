@@ -13,7 +13,7 @@ RSpec.configure do |config|
   config.before(:all) do
     class HttParty
       include HTTParty
-      base_uri 'https://jsonplaceholder.typicode.com/'
+      base_uri 'http://fakerestapi.azurewebsites.net/api'
     end
   end
 end
