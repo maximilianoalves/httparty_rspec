@@ -36,6 +36,6 @@ Projeto de exemplo para implementação de testes para API's Rest utilizando o H
 ```
 ## Tutorial, Instalação e execução
 
-`bundle install`
+**Ter previamente o ruby instalado em sua máquina**
 
-`rake spec`
+[Iniciando os testes de serviços com HTTParty e Rspec](https://medium.com/cwi-software/https-medium-com-maximilianoalves-iniciando-testes-de-servicos-com-httparty-e-rspec-366fe93525ab "Iniciando os testes de serviços com HTTParty e Rspec")
